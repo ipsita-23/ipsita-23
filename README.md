@@ -20,6 +20,7 @@
 - Git, GitHub, VS Code, Linux
 
 📫 How to reach me:
+- GitHub: [https://github.com/ipsita-23](https://github.com/ipsita-23)
 - LinkedIn: [Your LinkedIn URL]
 - Portfolio: [Your portfolio site if any]
 - Email: [Your email]
@@ -30,9 +31,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Ipsita's stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ipsita-23&show_icons=true&theme=radical" alt="Ipsita's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="Ipsita's streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ipsita-23&theme=radical" alt="Ipsita's GitHub Streak" />
 </p>
 
 ---
