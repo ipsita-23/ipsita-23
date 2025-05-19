@@ -2,7 +2,7 @@
 <h3 align="center">🚀 CSE Undergrad | 💻 AI/ML Explorer | 🌐 Future Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Coding+my+way+through+CS+🧠;Building+cool+things+with+tech+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Coding+my+way+through+CS+🧠;~~~Building+cool+things+with+tech+🚀" />
 </p>
 
 ---
